@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Blender
+*.blend1
+*.blend2
+*.bak
+*.autosave
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Generated Data
+outputs/
+tmp/
+temp/
+*.tmp
+Dataset/images/
+
+# Large Files
+*.dmg
+*.iso
+*.tar.gz
+
+# OS
+.DS_Store
+Thumbs.db

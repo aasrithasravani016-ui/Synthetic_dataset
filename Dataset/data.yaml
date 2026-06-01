@@ -1,0 +1,4 @@
+train: Dataset/images
+val: Dataset/images
+nc: 4
+names: ['patch_panel', 'pdu', 'switch', 'server']
